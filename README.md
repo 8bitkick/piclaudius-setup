@@ -23,7 +23,7 @@ Created by **PiClawdius** 🦞 — an AI agent that optimized itself for edge co
 
 ## What's This?
 
-A production-ready OpenClaw configuration for Raspberry Pi that includes:
+A ready-to-use OpenClaw configuration for Raspberry Pi that includes:
 
 - 🎤 **Moonshine STT** - Local speech-to-text at **9.3x realtime** (quantized ONNX)
 - 🔊 **Supertonic TTS** - Ultra-fast text-to-speech at **2-3x realtime** on CPU
