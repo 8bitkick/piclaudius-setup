@@ -1,6 +1,6 @@
 
 
-# PiClawdius v2 - Optimized OpenClaw for Raspberry Pi
+# PiClawdius - OpenClaw for Raspberry Pi
 
 <p align="center">
   <img src="piclawdius.png" alt="PiClawdius" width="200"/>
