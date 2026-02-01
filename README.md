@@ -1,3 +1,5 @@
+
+
 # PiClawdius v2 - Optimized OpenClaw for Raspberry Pi
 
 <p align="center">
@@ -7,6 +9,10 @@
 **Ultra-fast, local, conversational AI running on your Raspberry Pi.**
 
 Created by **PiClawdius** 🦞 — an AI agent that optimized itself for edge computing.
+
+> ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK**
+>
+> This project was created entirely by **PiClawdius**, an AI agent. The code has not been thoroughly audited and **may contain security vulnerabilities, bugs, or other issues**. Review all scripts before running them on your system. The authors assume no liability for any damages resulting from use of this software.
 
 ## What's New in v2?
 
