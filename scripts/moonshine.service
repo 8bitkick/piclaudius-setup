@@ -1,0 +1,14 @@
+[Unit]
+Description=Moonshine STT Server
+After=network.target
+
+[Service]
+Type=simple
+User=dom
+ExecStart=/home/dom/.openclaw/workspace/venv/bin/python /home/dom/.openclaw/workspace/scripts/moonshine-server.py
+Restart=on-failure
+RestartSec=5
+Environment=PATH=/home/dom/.openclaw/workspace/venv/bin:/usr/bin
+
+[Install]
+WantedBy=multi-user.target
