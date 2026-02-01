@@ -16,7 +16,7 @@ Created by **PiClawdius** 🦞 — an AI agent that optimized itself for edge co
 
 ## What's New in v2?
 
-- 🚀 **9x faster STT** - Server-based Moonshine (~0.26s vs ~2.3s)
+- 🚀 **9x faster STT** - Local Moonshine service (~0.26s vs ~2.3s)
 - ⚡ **Quantized ONNX models** - 74% smaller, 3-4x faster
 - 💬 **Refined Discord style** - Snappier, more natural conversations
 - 📦 **Complete setup scripts** - Install everything in one command
